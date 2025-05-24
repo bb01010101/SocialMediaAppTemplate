@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@clerk/clerk-expo": "^0.20.5",
+    "@clerk/clerk-expo": "^0.19.27",
     "@expo/vector-icons": "^14.0.0",
     "@prisma/client": "^6.8.2",
     "@react-navigation/bottom-tabs": "^6.5.12",
